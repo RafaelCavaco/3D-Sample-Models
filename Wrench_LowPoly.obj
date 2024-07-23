@@ -1,7 +1,7 @@
 # Blender 4.0.2
 # www.blender.org
 mtllib Wrench_LowPoly.mtl
-g Wrench_key_44_17x19_1
+o Wrench
 v -0.071451 0.000847 -0.001916
 v -0.071447 0.001966 -0.001905
 v -0.072169 0.000847 0.002004
